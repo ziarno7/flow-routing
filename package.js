@@ -30,7 +30,7 @@ Package.onUse(function(api) {
   ], ['client', 'server']);
 
   api.use([
-     'react@15.1.0',
+     'react@0.14.1_1',
      'kadira:blaze-layout@2.3.0',
      'kadira:react-layout@1.5.2',
      'gwendall:blaze-to-react@0.1.2'
